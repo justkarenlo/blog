@@ -1,5 +1,4 @@
 window.onload = function() {
-  console.log('hello')
   var sidebar = document.getElementById("sidebar");
   var sidebarButton = document.getElementById("sidebar-button");
 
