@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First Post
-cover: cover.jpg
+cover: city.jpg
 date:   2015-03-24 12:00:00
 categories: posts
 ---
