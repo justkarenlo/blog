@@ -29,7 +29,7 @@ Running a rails server:
 
 To change your IP:
 
-`rails s -b <your IP address>'
+`rails s -b <your IP address>`
 
 Finding your IP address:
 
