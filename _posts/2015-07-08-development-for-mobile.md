@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rails: Developing for Mobile
+title: Rails Custom Port and IP address
 cover: leap.jpg
 date:   2015-06-17 11:00:00
 categories: posts
