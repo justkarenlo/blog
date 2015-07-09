@@ -31,6 +31,10 @@ To change your IP:
 
 `rails s -b <your IP address>`
 
+example:
+
+`rails s -b 123.4.5.6`
+
 Finding your IP address:
 
 1. go to Terminal (I only know Mac, for now.. sorry)
