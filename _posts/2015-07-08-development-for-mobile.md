@@ -2,7 +2,7 @@
 layout: post
 title: Rails Custom Port and IP address
 cover: leap.jpg
-date:   2015-06-17 11:00:00
+date:   2015-07-08 11:55:00
 categories: posts
 ---
 
