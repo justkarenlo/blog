@@ -24,30 +24,36 @@ You really want to try the app you've just coded on your ACTUAL phone, so what i
 Running a rails server:
 `rails s`  or same as `rails serve`
 
-*You'll notice that the default* IP is: localhost (*or same as* 127.0.0.1)
+*You'll notice that the* default IP is: localhost (*or same as* 127.0.0.1)
                     and default port is: 3000
 
 To change your IP:
+
 `rails s -b <your IP address>'
 
 Finding your IP address:
+
 1. go to Terminal (I only know Mac, for now.. sorry)
 2. type in: `ifconfig`
 3. TADA it should be somewhere there
    a. check in the **en0** area and should be next to **inet**
 
 To change your port (you don't need this step, but thought it would be a nice to know):
+
 `rails s -p <new port number here>`
 example:
+
 `rails s -p 2000`
 
 *you can also combine the two (yay!)*
 example:
+
 `rails s -p 2000 -b 127.0.0.1`
 
 And **there you have it**! Now you can go to your phone's browser and just type in the URL bar:
 `<IP address:port number>`
 example:
+
 `127.0.0.1:9898`
 
 Hope this helps someone! Thanks for reading!
