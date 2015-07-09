@@ -41,17 +41,21 @@ Finding your IP address:
 To change your port (you don't need this step, but thought it would be a nice to know):
 
 `rails s -p <new port number here>`
+
 example:
 
 `rails s -p 2000`
 
 *you can also combine the two (yay!)*
+
 example:
 
 `rails s -p 2000 -b 127.0.0.1`
 
 And **there you have it**! Now you can go to your phone's browser and just type in the URL bar:
+
 `<IP address:port number>`
+
 example:
 
 `127.0.0.1:9898`
