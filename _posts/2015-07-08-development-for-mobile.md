@@ -10,7 +10,7 @@ categories: posts
 
 I have to say, it is quite intimidating thinking about what topics to post about now. After finishing DBC, mind has been all about finding a job (obviously from my ~~last~~ only two posts) and giving myself validation for all the hard work I've completed. So much so this "blog" has essentially become more about me trying to motivate readers (mostly myself) to keep my head up. But people, I'm trying! Again, I feel like I'm taking a leap of faith, but this time in blogging and hopefully something that someone out there will find useful.
 
-I can't guarantee I'll be 100% accurate, I can't guarentee what I write will be interesting to you, but I can guarantee it's 100% heart and will be whatever tidbit I've learned as I continue my journey as a web developer. So here goes...*holds breath*
+I can't guarantee I'll be 100% accurate, I can't guarantee what I write will be interesting to you, but I can guarantee it's 100% heart and will be whatever tidbit I've learned as I continue my journey as a web developer. So here goes...*holds breath*
 
 ## Development for Mobile
 
